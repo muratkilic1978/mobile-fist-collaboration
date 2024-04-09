@@ -1,7 +1,20 @@
 
+
 .footer{
     background-color: rgb(70, 9, 238);
     display: block;
     align-content: flex-end;
+
+
+/* Reset style */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: antiquewhite;
 
 }
